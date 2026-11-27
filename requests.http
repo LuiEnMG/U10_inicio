@@ -1,6 +1,6 @@
 # Cuentas conocidas de laboratorio. Mantén las cookies habilitadas en HTTP Client.
 # 1. Ejecuta GET /csrf como docente. 2. Copia token a csrf. 3. Conserva JSESSIONID.
-@csrf = COPIA_EL_TOKEN_DE_LA_RESPUESTA
+@csrf = i2XK_QN03wTZy1o-o2ejFjgTXjvDlIyxoAxuYKoHLoU_rcKXulD6yzUXvjL0_msOlkqXcAojcwL68buck29eUZtlG7cKy6Gv"
 
 ### Saludo público
 GET http://localhost:8080/api/v1/saludo
